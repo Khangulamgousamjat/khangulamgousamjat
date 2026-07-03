@@ -67,11 +67,35 @@ GOAL:
 
 ### 🚀 NEURAL STACK
 
+### 🚀 NEURAL STACK & TECH MATRIX
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,git,github,linux,postman,vscode,vercel" />
+<!-- Row 1: Core Languages & Web Stack -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css,react,nextjs,nodejs,express,fastapi,flask" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=html,css,cpp,c,sqlite" />
+
+<!-- Row 2: Databases, Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase,firebase,docker,kubernetes,aws,gcp,azure,git,github,linux,bash" />
+<br><br>
+
+<!-- Row 3: Machine Learning, Computer Vision & Developer Tools -->
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,postman,vscode,vercel,tailwind,bootstrap,figma" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🧠 Category | ⚡ Technologies & Frameworks |
+| :--- | :--- |
+| **🤖 AI, GenAI & LLMs** | `Generative AI` • `LLMs` • `RAG` • `Prompt Engineering` • `AI Agents` • `LangChain` • `LlamaIndex` • `Hugging Face` |
+| **📊 ML & Data Science** | `Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `TensorFlow` • `PyTorch` • `OpenCV` |
+| **💾 Databases & Vector DBs** | `PostgreSQL` • `MongoDB` • `SQLite` • `Redis` • `Pinecone` • `ChromaDB` • `FAISS` • `SQL` • `DBMS` |
+| **💻 Full Stack & APIs** | `React` • `Next.js` • `Node.js` • `Express` • `FastAPI` • `REST APIs` • `TypeScript` • `JavaScript` • `HTML5/CSS3` |
+| **☁️ DevOps, Cloud & MLOps** | `Docker` • `Kubernetes` • `AWS` • `GCP` • `Azure` • `Linux` • `Bash` • `Git` • `GitHub` • `CI/CD` • `MLOps` |
+| **🔬 Core CS Foundations** | `Data Structures & Algorithms (DSA)` • `OOP` • `System Design` • `Operating Systems` • `Computer Networks` |
 
 </div>
 
