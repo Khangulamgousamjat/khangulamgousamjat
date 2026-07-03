@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,45:070d19,100:000000&height=220&section=header&text=GULAMGOUS%20KHAN&fontSize=50&fontColor=00F0FF&fontAlign=50&fontAlignY=35" width="100%" alt="Header Banner" />
 
 <!-- Typing Subheader -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=00F0FF&center=true&vCenter=true&width=1000&height=50&lines=GULAMGOUS.exe+INITIALIZED;FULL+STACK+AI+ENGINEER;CSE+GRADUATE;BUILDING+INTELLIGENT+SYSTEMS;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=00F0FF&center=true&vCenter=true&width=1000&height=50&lines=GULAMGOUS.exe+INITIALIZED;FULL+STACK+AI/ML+ENGINEER;CSE+GRADUATE;BUILDING+INTELLIGENT+SYSTEMS;" />
 
 </div>
 
@@ -20,7 +20,7 @@
 │ NEURAL CORE  : ACTIVE                      │
 │ AI MODULE    : ONLINE                       │
 │ SYSTEM STATE : RUNNING                     │
-│ MODE         : FULL STACK + AI             │
+│ MODE         : FULL STACK + AI/ML             │
 └────────────────────────────────────────────┘
 ```
 
@@ -37,7 +37,7 @@ ENTITY:
   Gulamgous Khan
 
 ROLE:
-  FULL STACK AI ENGINEER
+  FULL STACK AI/ML ENGINEER
 
 CURRENT MISSION:
   BUILDING INTELLIGENT SOFTWARE
@@ -141,7 +141,7 @@ GOAL:
                                 │
         ┌───────────────────────┴───────────────────────┐
         │                                               │
-   FULL STACK                                    AI ENGINEERING
+   FULL STACK                                    AI/ML ENGINEERING
         │                                               │
         ├── Languages                                   ├── Foundations
         │    ├── JavaScript / TypeScript                │    ├── LLM Apps & API Integrations
