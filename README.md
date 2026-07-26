@@ -207,12 +207,6 @@ GOAL:
 
 <img width="70%" src="https://streak-stats.demolab.com?user=khangulamgousamjat&theme=tokyonight&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
 
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangulamgousamjat&theme=tokyo-night&bg_color=000000&hide_border=true&line=00F0FF&point=FFFFFF" width="100%" />
-
-<br><br>
 
 <!-- Snake Contribution Grid Animation -->
 <h4>👾 Contribution Snake</h4>
