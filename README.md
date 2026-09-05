@@ -10,7 +10,7 @@
 
 ---
 
-### 🌌 NEURAL INTERFACE
+<h3 align="center">🌌 NEURAL INTERFACE</h3>
 
 <div align="center">
 
@@ -28,8 +28,7 @@
 
 ---
 
-### ⚡ SYSTEM CORE
-
+<h3 align="center">⚡ SYSTEM CORE</h3>
 
 <div align="center">
 
@@ -39,40 +38,22 @@
   <img src="https://img.shields.io/badge/GOAL-GOOGLE%20SWE-FF0055?style=for-the-badge&logo=google&logoColor=FF0055&labelColor=070d19" />
 </p>
 
-```yaml
-ENTITY:
-  Gulamgous Khan
+<br>
 
-ROLE:
-  FULL STACK AI/ML ENGINEER
-
-CURRENT MISSION:
-  BUILDING INTELLIGENT SOFTWARE
-
-SPECIALIZATION:
-  • MERN STACK
-  • GENERATIVE AI APPLICATIONS
-  • REST API ARCHITECTURE
-  • DATABASE DESIGN
-  • PROMPT ENGINEERING
-  • FULL STACK DEVELOPMENT
-
-CURRENTLY LEARNING:
-  • ADVANCED DSA
-  • GEN AI SYSTEMS
-  • LLM APPLICATIONS
-  • AGENTIC AI
-  • SYSTEM DESIGN
-
-GOAL:
-  GOOGLE SOFTWARE ENGINEER
-```
+| 🧬 Parameter | ⚡ System Core Specification |
+| :---: | :--- |
+| **👤 ENTITY** | **Gulamgous Khan** |
+| **💼 ROLE** | `FULL STACK AI/ML ENGINEER` |
+| **🎯 CURRENT MISSION** | `BUILDING INTELLIGENT SOFTWARE` |
+| **⚡ SPECIALIZATION** | • `MERN STACK`<br>• `GENERATIVE AI APPLICATIONS`<br>• `REST API ARCHITECTURE`<br>• `DATABASE DESIGN`<br>• `PROMPT ENGINEERING`<br>• `FULL STACK DEVELOPMENT` |
+| **🧠 CURRENTLY LEARNING** | • `ADVANCED DSA`<br>• `GEN AI SYSTEMS`<br>• `LLM APPLICATIONS`<br>• `AGENTIC AI`<br>• `SYSTEM DESIGN` |
+| **🏆 GOAL** | `GOOGLE SOFTWARE ENGINEER` |
 
 </div>
 
 ---
 
-### 🎓 ACADEMIC BACKGROUND
+<h3 align="center">🎓 ACADEMIC BACKGROUND</h3>
 
 <div align="center">
 
@@ -93,7 +74,7 @@ GOAL:
 
 ---
 
-### 🚀 NEURAL STACK & TECH MATRIX
+<h3 align="center">🚀 NEURAL STACK & TECH MATRIX</h3>
 
 <div align="center">
 
@@ -139,7 +120,7 @@ GOAL:
 
 ---
 
-### 🧠 AI MODULES
+<h3 align="center">🧠 AI MODULES</h3>
 
 <div align="center">
 
@@ -156,21 +137,7 @@ GOAL:
 
 ---
 
-### ⚔ DATA STRUCTURES & ALGORITHMS
-
-<div align="center">
-
-<br><br>
-
-| 🧠 Core DSA Topics | 🚀 Advanced Patterns |
-| :--- | :--- |
-| 🔹 **Arrays & Strings** <br> 🔹 **Linked Lists & Trees** <br> 🔹 **Hash Maps & Graphs** <br> 🔹 **BFS / DFS / Backtracking** | ⚡ **Sliding Window & Two Pointers** <br> ⚡ **Binary Search** <br> ⚡ **Dynamic Programming** <br> ⚡ **Recursion & Greedy Algorithms** |
-
-</div>
-
----
-
-### 🌐 ARCHITECTURE TREE
+<h3 align="center">🌐 ARCHITECTURE TREE</h3>
 
 ```text
                      GULAMGOUS KHAN
@@ -201,7 +168,7 @@ GOAL:
 
 ---
 
-### 📂 PROJECT DATABASE
+<h3 align="center">📂 PROJECT DATABASE</h3>
 
 <div align="center">
 
@@ -220,7 +187,7 @@ GOAL:
 
 ---
 
-### 🎯 CURRENT FOCUS
+<h3 align="center">🎯 CURRENT FOCUS</h3>
 
 <div align="center">
 
@@ -236,7 +203,7 @@ GOAL:
 
 ---
 
-### 📊 CONTRIBUTION & ACTIVITY
+<h3 align="center">📊 CONTRIBUTION & ACTIVITY</h3>
 
 <div align="center">
 
@@ -260,7 +227,6 @@ GOAL:
 
 <br><br>
 
-
 <!-- Snake Contribution Grid Animation -->
 <h4>👾 Contribution Snake</h4>
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" />
@@ -269,7 +235,7 @@ GOAL:
 
 ---
 
-### 🌐 ACCESS TERMINAL
+<h3 align="center">🌐 ACCESS TERMINAL</h3>
 
 <div align="center">
 
@@ -282,7 +248,6 @@ GOAL:
 <a href="mailto:gousk2004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/>
 </a>
-
 
 <br><br>
 
