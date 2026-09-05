@@ -18,9 +18,9 @@
 ┌────────────────────────────────────────────┐
 │ ACCESS LEVEL : AUTHORIZED                  │
 │ NEURAL CORE  : ACTIVE                      │
-│ AI MODULE    : ONLINE                       │
+│ AI MODULE    : ONLINE                      │
 │ SYSTEM STATE : RUNNING                     │
-│ MODE         : FULL STACK + AI/ML             │
+│ MODE         : FULL STACK + AI/ML          │
 └────────────────────────────────────────────┘
 ```
 
@@ -64,8 +64,6 @@ GOAL:
 </div>
 
 ---
-
-### 🚀 NEURAL STACK
 
 ### 🚀 NEURAL STACK & TECH MATRIX
 
@@ -122,7 +120,7 @@ GOAL:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-200+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode badge" />
+<img src="https://img.shields.io/badge/LeetCode-20+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode badge" />
 
 <br><br>
 
@@ -137,27 +135,30 @@ GOAL:
 ### 🌐 ARCHITECTURE TREE
 
 ```text
-                          GULAMGOUS KHAN
-                                │
-        ┌───────────────────────┴───────────────────────┐
-        │                                               │
-   FULL STACK                                    AI/ML ENGINEERING
-        │                                               │
-        ├── Languages                                   ├── Foundations
-        │    ├── JavaScript / TypeScript                │    ├── LLM Apps & API Integrations
-        │    └── Python / C++                           │    └── Prompt Engineering
-        │                                               │
-        ├── Frameworks & Libraries                      ├── Cognitive Architectures
-        │    ├── React.js / Next.js                     │    ├── Agentic AI Systems
-        │    └── Node.js / Express.js                   │    └── RAG (Retrieval-Augmented)
-        │                                               │
-        ├── Mobile & Backend                            ├── Frameworks & DBs
-        │    ├── Flutter / Firebase                     │    ├── LangChain / LlamaIndex
-        │    └── REST APIs / JWT Auth                   │    └── Vector Databases (Pinecone)
-        │                                               │
-        └── Databases & Deploy                          └── NLP & Speech
-             ├── PostgreSQL / SQLite / MongoDB          └── Speech-to-Text / NLP Models
-             └── Vercel / Railway / Git
+                                           GULAMGOUS KHAN
+                                                 │
+        ┌────────────────────────────────────────┴────────────────────────────────────────┐
+        │                                                                                 │
+   FULL STACK DEVELOPMENT                                                         AI/ML ENGINEERING
+        │                                                                                 │
+        ├── 💻 Languages & Web Core                                                       ├── 🤖 Generative AI & LLMs
+        │    ├── JavaScript (ES6+) / TypeScript                                           │    ├── LLMs / RAG Architecture / Prompt Engineering
+        │    ├── Python / C++ / SQL                                                       │    ├── AI Agents / Autonomous Agentic Systems
+        │    └── HTML5 / CSS3 / Tailwind CSS                                              │    └── LangChain / LlamaIndex / Hugging Face
+        │                                                                                 │
+        ├── ⚡ Frameworks, Runtimes & APIs                                                ├── 📊 Machine Learning & Deep Learning
+        │    ├── React.js / Next.js (App Router)                                          │    ├── PyTorch / TensorFlow / Scikit-learn
+        │    ├── Node.js / Express.js / FastAPI / Flask                                   │    ├── Deep Learning / Neural Networks / MLOps
+        │    └── RESTful APIs / System Design                                             │    └── Data Analysis: NumPy / Pandas / Matplotlib
+        │                                                                                 │
+        ├── 💾 Databases & Data Layer                                                     ├── 👁️ Computer Vision & NLP
+        │    ├── Relational: PostgreSQL / SQLite / SQL / DBMS                             │    ├── Computer Vision: OpenCV
+        │    ├── NoSQL: MongoDB / Redis / Supabase                                        │    └── Natural Language Processing (NLP)
+        │    └── Vector DBs: FAISS / ChromaDB / Pinecone                                  │
+        │                                                                                 └── ☁️ Cloud, MLOps & DevOps
+        └── 🛠️ Tools & CS Foundations                                                          ├── Docker / Kubernetes / CI/CD Pipelines
+             ├── Git / GitHub / Linux / Bash                                              ├── Cloud: AWS / GCP / Azure
+             └── DSA / OOP / Operating Systems / Networks                                 └── Model Deployment & MLOps
 ```
 
 ---
@@ -170,9 +171,9 @@ GOAL:
 | :--- | :--- | :--- |
 | 💊 [**Pharma AI Agent**](https://github.com/Khangulamgousamjat/Pharma-AI-Agent) | `Python` • `LangChain` | Multi-agent network automating pharmacy workflows and prescription verification |
 | 🛡️ [**Event Gous Kratos**](https://github.com/Khangulamgousamjat/Event-Gous-Kratos) | `TypeScript` • `Next.js` | Enterprise event management platform designed for high-concurrency scaling |
-| 🍎 [**Food Waste Management**](https://github.com/Khangulamgousamjat/food-waste-management) | `TypeScript` • `React` | Real-time surplus food discovery and connection platform for donors and NGOs |
-| 🎂 [**Birthday Wisher**](https://github.com/Khangulamgousamjat/Birthday-wisher-) | `TypeScript` • `Supabase` | Magic Link storytelling flow with interactive canvas animations |
-| 📄 [**Resume Screening System**](https://github.com/Khangulamgousamjat/Resume-Screening-System) | `Python` • `NLP` • `HTML` | AI-powered parsing tool screening and ranking candidate resumes |
+| 🛍️ [**Afreen Mall**](https://github.com/Khangulamgousamjat/Afreen-Mall) | `React` • `Node.js` • `Express` • `MongoDB` | Full-stack modern e-commerce solution with dynamic product catalog and secure checkout |
+| 👥 [**Student Social**](https://github.com/Khangulamgousamjat/student-social-master) | `React` • `Node.js` • `Socket.io` • `Express` | Academic real-time collaboration hub for student networking and resource sharing |
+| 🍎 [**Food Waste Management**](https://github.com/Khangulamgousamjat/food-waste-management) | `TypeScript` • `React` • `Node.js` • `MongoDB` | Real-time surplus food discovery and connection platform for donors and NGOs |
 | 🎓 [**Skill Developer**](https://github.com/Khangulamgousamjat/Skill-Developer) | `JavaScript` • `GPT-4` | AI-driven intern development platform with radar metrics and milestones |
 
 </div>
@@ -186,9 +187,9 @@ GOAL:
 | Focus Area | Objective | Status |
 | :--- | :--- | :--- |
 | 🧠 **Advanced DSA** | Solving LeetCode & mastering problem-solving patterns | `Active` |
-| 🤖 **Agentic AI & LLMs** | Engineering autonomous multi-agent systems & RAG pipelines | `Active` |
+| 🤖 **Agentic AI & LLMs** | Engineering autonomous multi-agent systems & RAG pipelines | `In Progress` |
 | 💻 **Full Stack Systems** | Building high-performance, responsive MERN applications | `In Progress` |
-| 🌐 **Open Source** | Contributing to developer libraries and AI frameworks | `Active` |
+| 🌐 **Open Source** | Contributing to developer libraries and AI frameworks | `In Progress` |
 | 🎯 **Career Target** | Preparing for Google Software Engineer technical tracks | `Locked In` |
 
 </div>
@@ -207,6 +208,12 @@ GOAL:
 
 <img width="70%" src="https://streak-stats.demolab.com?user=khangulamgousamjat&theme=tokyonight&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
 
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangulamgousamjat&theme=tokyo-night&bg_color=000000&hide_border=true&line=00F0FF&point=FFFFFF" width="100%" />
+
+<br><br>
 
 <!-- Snake Contribution Grid Animation -->
 <h4>👾 Contribution Snake</h4>
@@ -236,7 +243,7 @@ GOAL:
 <br><br>
 
 ```txt
-Gulamgous OS v3.0 | STATUS: ONLINE | MISSION: GOOGLE 2027
+Gulamgous OS | STATUS: ONLINE | MISSION: GOOGLE 2027
 ```
 
 </div>
