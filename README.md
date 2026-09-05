@@ -14,15 +14,9 @@
 
 <div align="center">
 
-```txt
-┌────────────────────────────────────────────┐
-│ ACCESS LEVEL : AUTHORIZED                  │
-│ NEURAL CORE  : ACTIVE                      │
-│ AI MODULE    : ONLINE                      │
-│ SYSTEM STATE : RUNNING                     │
-│ MODE         : FULL STACK + AI/ML          │
-└────────────────────────────────────────────┘
-```
+| 🔒 ACCESS LEVEL | 🧠 NEURAL CORE | 🤖 AI MODULE | ⚡ SYSTEM STATE | 💻 MODE |
+| :---: | :---: | :---: | :---: | :---: |
+| `AUTHORIZED` | `ACTIVE` | `ONLINE` | `RUNNING` | `FULL STACK + AI/ML` |
 
 </div>
 
