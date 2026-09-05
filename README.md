@@ -31,8 +31,8 @@
 ### ⚡ SYSTEM CORE
 
 <div align="center">
-```yaml
 
+```yaml
 ENTITY:
   Gulamgous Khan
 
@@ -120,7 +120,7 @@ GOAL:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-20+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode badge" />
+<img src="https://img.shields.io/badge/LeetCode-200+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode badge" />
 
 <br><br>
 
@@ -161,7 +161,6 @@ GOAL:
              └── DSA / OOP / Operating Systems / Networks                                 └── Model Deployment & MLOps
 ```
 
----
 
 ### 📂 PROJECT DATABASE
 
