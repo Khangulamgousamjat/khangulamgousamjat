@@ -32,7 +32,6 @@
 
 <div align="center">
 
-```yaml
 ENTITY:
   Gulamgous Khan
 
