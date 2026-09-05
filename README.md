@@ -32,6 +32,12 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OPERATOR-GULAMGOUS%20KHAN-00F0FF?style=for-the-badge&logo=superuser&logoColor=00F0FF&labelColor=070d19" />
+  <img src="https://img.shields.io/badge/SYS_STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=00FF88&labelColor=070d19" />
+  <img src="https://img.shields.io/badge/GOAL-GOOGLE%20SWE-FF0055?style=for-the-badge&logo=google&logoColor=FF0055&labelColor=070d19" />
+</p>
+
 ```yaml
 ENTITY:
   Gulamgous Khan
@@ -65,20 +71,53 @@ GOAL:
 
 ---
 
+### 🎓 ACADEMIC BACKGROUND
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ACADEMICS-COMPUTER_SCIENCE_%26_MANAGEMENT-00F0FF?style=for-the-badge&logo=googleclassroom&logoColor=00F0FF&labelColor=070d19" />
+  <img src="https://img.shields.io/badge/B.SC_HONORS-GRADE_A+_%7C_8.5_CGPA-00FF88?style=for-the-badge&logo=statuspage&logoColor=00FF88&labelColor=070d19" />
+</p>
+
+<br>
+
+| ⏳&nbsp;Timeline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 🎓 Degree & Program | 🏛️ Specialization & Performance |
+| :---: | :--- | :--- |
+| <nobr><code>2023&nbsp;–&nbsp;2027</code></nobr> | **Bachelor of Technology (B.Tech)** | Computer Science Engineering • `CSE Graduate` |
+| <nobr><code>2022&nbsp;–&nbsp;2025</code></nobr> | **Bachelor of Science (B.Sc)** | Mathematics, Computer Science & Physics • `Final Grade: A+` • `CGPA: 8.5` |
+| <nobr><code>2025&nbsp;–&nbsp;2027</code></nobr> | **Master of Business Administration (MBA)** | Management & Business Administration |
+
+</div>
+
+---
+
 ### 🚀 NEURAL STACK & TECH MATRIX
 
 <div align="center">
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGES_%26_FRAMEWORKS-00F0FF?style=for-the-badge&logo=codeforces&logoColor=00F0FF&labelColor=070d19" />
+</p>
+
 <!-- Row 1: Core Languages & Web Stack -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css,react,nextjs,nodejs,express,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css,react,nextjs,nodejs,express,fastapi,flask&theme=dark" />
 <br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DATABASES,_CLOUD_%26_DEVOPS-00FF88?style=for-the-badge&logo=serverfault&logoColor=00FF88&labelColor=070d19" />
+</p>
 
 <!-- Row 2: Databases, Cloud & DevOps -->
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase,firebase,docker,kubernetes,aws,gcp,azure,git,github,linux,bash" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,supabase,firebase,docker,kubernetes,aws,gcp,azure,git,github,linux,bash&theme=dark" />
 <br><br>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML,_CV_%26_DEVELOPER_TOOLS-FF0055?style=for-the-badge&logo=probot&logoColor=FF0055&labelColor=070d19" />
+</p>
+
 <!-- Row 3: Machine Learning, Computer Vision & Developer Tools -->
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,postman,vscode,vercel,tailwind,bootstrap,figma" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv,postman,vscode,vercel,tailwind,bootstrap,figma&theme=dark" />
 
 </div>
 
@@ -120,8 +159,6 @@ GOAL:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-20+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode badge" />
-
 <br><br>
 
 | 🧠 Core DSA Topics | 🚀 Advanced Patterns |
@@ -135,45 +172,48 @@ GOAL:
 ### 🌐 ARCHITECTURE TREE
 
 ```text
-                                           GULAMGOUS KHAN
-                                                 │
-        ┌────────────────────────────────────────┴────────────────────────────────────────┐
-        │                                                                                 │
-   FULL STACK DEVELOPMENT                                                         AI/ML ENGINEERING
-        │                                                                                 │
-        ├── 💻 Languages & Web Core                                                       ├── 🤖 Generative AI & LLMs
-        │    ├── JavaScript (ES6+) / TypeScript                                           │    ├── LLMs / RAG Architecture / Prompt Engineering
-        │    ├── Python / C++ / SQL                                                       │    ├── AI Agents / Autonomous Agentic Systems
-        │    └── HTML5 / CSS3 / Tailwind CSS                                              │    └── LangChain / LlamaIndex / Hugging Face
-        │                                                                                 │
-        ├── ⚡ Frameworks, Runtimes & APIs                                                ├── 📊 Machine Learning & Deep Learning
-        │    ├── React.js / Next.js (App Router)                                          │    ├── PyTorch / TensorFlow / Scikit-learn
-        │    ├── Node.js / Express.js / FastAPI / Flask                                   │    ├── Deep Learning / Neural Networks / MLOps
-        │    └── RESTful APIs / System Design                                             │    └── Data Analysis: NumPy / Pandas / Matplotlib
-        │                                                                                 │
-        ├── 💾 Databases & Data Layer                                                     ├── 👁️ Computer Vision & NLP
-        │    ├── Relational: PostgreSQL / SQLite / SQL / DBMS                             │    ├── Computer Vision: OpenCV
-        │    ├── NoSQL: MongoDB / Redis / Supabase                                        │    └── Natural Language Processing (NLP)
-        │    └── Vector DBs: FAISS / ChromaDB / Pinecone                                  │
-        │                                                                                 └── ☁️ Cloud, MLOps & DevOps
-        └── 🛠️ Tools & CS Foundations                                                          ├── Docker / Kubernetes / CI/CD Pipelines
-             ├── Git / GitHub / Linux / Bash                                              ├── Cloud: AWS / GCP / Azure
-             └── DSA / OOP / Operating Systems / Networks                                 └── Model Deployment & MLOps
+                     GULAMGOUS KHAN
+                           │
+      ┌────────────────────┴────────────────────┐
+      │                                         │
+ FULL STACK                                AI/ML SYSTEMS
+      │                                         │
+      ├── 💻 Web & Languages                    ├── 🤖 GenAI & LLMs
+      │    ├── JS / TypeScript                  │    ├── LLMs & RAG Architectures
+      │    ├── Python / C++ / SQL               │    ├── Autonomous AI Agents
+      │    └── HTML5 / CSS3 / Tailwind          │    └── LangChain / LlamaIndex
+      │                                         │
+      ├── ⚡ Frameworks & APIs                  ├── 📊 ML & Deep Learning
+      │    ├── React.js / Next.js               │    ├── PyTorch / TensorFlow
+      │    ├── Node.js / Express.js             │    ├── Scikit-learn / Models
+      │    └── RESTful APIs / FastAPI           │    └── Data: NumPy / Pandas
+      │                                         │
+      ├── 💾 Databases & Storage                ├── 👁️ Vision & NLP
+      │    ├── PostgreSQL / MongoDB             │    ├── OpenCV (Computer Vision)
+      │    ├── SQLite / Redis / Supabase        │    └── Natural Language (NLP)
+      │    └── Vector: Pinecone / FAISS         │
+      │                                         └── ☁️ Cloud & DevOps
+      └── 🛠️ Tools & CS Core                         ├── Docker / Kubernetes
+           ├── Git / GitHub / Linux                  ├── Cloud: AWS / GCP / Azure
+           └── DSA / System Design                   └── CI/CD & Model Deployment
 ```
 
+---
 
 ### 📂 PROJECT DATABASE
 
 <div align="center">
 
-| Project Name | Stack | Description |
-| :--- | :--- | :--- |
-| 💊 [**Pharma AI Agent**](https://github.com/Khangulamgousamjat/Pharma-AI-Agent) | `Python` • `LangChain` | Multi-agent network automating pharmacy workflows and prescription verification |
-| 🛡️ [**Event Gous Kratos**](https://github.com/Khangulamgousamjat/Event-Gous-Kratos) | `TypeScript` • `Next.js` | Enterprise event management platform designed for high-concurrency scaling |
-| 🛍️ [**Afreen Mall**](https://github.com/Khangulamgousamjat/Afreen-Mall) | `React` • `Node.js` • `Express` • `MongoDB` | Full-stack modern e-commerce solution with dynamic product catalog and secure checkout |
-| 👥 [**Student Social**](https://github.com/Khangulamgousamjat/student-social-master) | `React` • `Node.js` • `Socket.io` • `Express` | Academic real-time collaboration hub for student networking and resource sharing |
-| 🍎 [**Food Waste Management**](https://github.com/Khangulamgousamjat/food-waste-management) | `TypeScript` • `React` • `Node.js` • `MongoDB` | Real-time surplus food discovery and connection platform for donors and NGOs |
-| 🎓 [**Skill Developer**](https://github.com/Khangulamgousamjat/Skill-Developer) | `JavaScript` • `GPT-4` | AI-driven intern development platform with radar metrics and milestones |
+| Project Name | Live Demo | Stack | Real Description |
+| :--- | :---: | :--- | :--- |
+| 💊 [**Pharma AI Agent**](https://github.com/Khangulamgousamjat/Pharma-AI-Agent) | [🔗 Visit](https://pharma-ai-agent-gk.vercel.app) | `Python` • `LangChain` • `FastAPI` | Multi-agent network automating pharmacy workflows and prescription dispensing |
+| 🛡️ [**Event Gous Kratos**](https://github.com/Khangulamgousamjat/Event-Gous-Kratos) | [🔗 Visit](https://event-gous-kratos.vercel.app) | `TypeScript` • `Next.js` • `Tailwind` | Enterprise event registration platform built for high-concurrency scaling |
+| 🛍️ [**Afreen Mall**](https://github.com/Khangulamgousamjat/Afreen-Mall) | [🔗 Visit](https://afreen-mall.vercel.app) | `TypeScript` • `Next.js` • `Supabase` | Supermarket operations platform consolidating POS, inventory & audit trails |
+| 🏏 [**CRIC-PRO**](https://github.com/Khangulamgousamjat/CRIC-PRO) | [🔗 Visit](https://cric-pro-js.vercel.app) | `TypeScript` • `FastAPI` • `JWT` | Full-stack cricket tournament system with real-time scoring and admin portal |
+| 🍎 [**Food Waste Management**](https://github.com/Khangulamgousamjat/food-waste-management) | [🔗 Visit](https://hungerlink-gk.vercel.app) | `TypeScript` • `React` • `Vercel` | Real-time surplus food connection platform linking donors with NGOs |
+| 📊 [**InsightForge**](https://github.com/Khangulamgousamjat/InsightForge) | [🔗 Visit](https://insightforge-gk.vercel.app) | `Python` • `Scikit-learn` • `EDA` | Sales forecasting & analytics engine with trained ML models and dashboard |
+| 🎓 [**Skill Developer**](https://github.com/Khangulamgousamjat/Skill-Developer) | [🔗 Visit](https://skill-developer.vercel.app) | `JavaScript` • `GPT-4` • `Chart.js` | AI-driven intern development platform with radar metrics and milestones |
+| 👥 [**Student Social**](https://github.com/Khangulamgousamjat/student-social-master) | [🔗 Visit](https://student-social-master-gk.vercel.app/) | `TypeScript` • `Next.js` • `Tailwind` | Academic collaboration platform for student networking and knowledge sharing |
 
 </div>
 
@@ -185,10 +225,10 @@ GOAL:
 
 | Focus Area | Objective | Status |
 | :--- | :--- | :--- |
-| 🧠 **Advanced DSA** | Solving LeetCode & mastering problem-solving patterns | `Active` |
-| 🤖 **Agentic AI & LLMs** | Engineering autonomous multi-agent systems & RAG pipelines | `In Progress` |
+| 🧠 **Advanced DSA** | Mastering algorithmic foundations & problem-solving patterns | `Active` |
+| 🤖 **Agentic AI & LLMs** | Engineering autonomous multi-agent systems & RAG pipelines | `Active` |
 | 💻 **Full Stack Systems** | Building high-performance, responsive MERN applications | `In Progress` |
-| 🌐 **Open Source** | Contributing to developer libraries and AI frameworks | `In Progress` |
+| 🌐 **Open Source** | Contributing to developer libraries and AI frameworks | `Active` |
 | 🎯 **Career Target** | Preparing for Google Software Engineer technical tracks | `Locked In` |
 
 </div>
@@ -198,6 +238,16 @@ GOAL:
 ### 📊 CONTRIBUTION & ACTIVITY
 
 <div align="center">
+
+<!-- Real Telemetry Badges from Live GitHub Profile -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-183-00F0FF?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=070d19" />
+  <img src="https://img.shields.io/badge/Public%20Repos-22-00FF88?style=for-the-badge&logo=git&logoColor=00FF88&labelColor=070d19" />
+  <img src="https://img.shields.io/badge/Total%20Commits-160+-FF0055?style=for-the-badge&logo=conventionalcommits&logoColor=FF0055&labelColor=070d19" />
+  <img src="https://img.shields.io/badge/Total%20Stars-9-FFA116?style=for-the-badge&logo=star&logoColor=FFA116&labelColor=070d19" />
+</p>
+
+<br>
 
 <!-- Dynamic Stats Cards Aligned Side-by-Side -->
 <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khangulamgousamjat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" />
@@ -209,10 +259,6 @@ GOAL:
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khangulamgousamjat&theme=tokyo-night&bg_color=000000&hide_border=true&line=00F0FF&point=FFFFFF" width="100%" />
-
-<br><br>
 
 <!-- Snake Contribution Grid Animation -->
 <h4>👾 Contribution Snake</h4>
@@ -235,14 +281,12 @@ GOAL:
 <a href="mailto:gousk2004@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00F0FF"/>
 </a>
-<a href="https://leetcode.com/u/khangulamgous/" target="_blank">
-  <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00F0FF"/>
-</a>
+
 
 <br><br>
 
 ```txt
-Gulamgous OS | STATUS: ONLINE | MISSION: GOOGLE 2027
+Gulamgous OS v3.0 | STATUS: ONLINE | MISSION: GOOGLE 2027
 ```
 
 </div>
